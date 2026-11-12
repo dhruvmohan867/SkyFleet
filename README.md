@@ -24,7 +24,7 @@ https://github.com/dhruvmohan867/source-asia
 
 # 📌 Project Overview
 
-Source-Asia Flight Management is a **production-grade, full-stack Progressive Web Application (PWA)** developed for the **Source Asia Frontend Internship Technical Assignment**.
+Source-Asia Flight Management is a **production-grade, full-stack Progressive Web Application (PWA)**.
 
 The application simulates a real-world airline booking platform with:
 
