@@ -269,29 +269,6 @@ To test concurrent booking protection:
 - Second user receives lock conflict
 - Realtime synchronization updates instantly
 
----
-
-# 📋 Assignment Requirements Coverage
-
-| Requirement | Status | Implementation |
-|---|---|---|
-| User Authentication | ✅ | Supabase Auth |
-| Flight Search | ✅ | Dynamic filtering |
-| Interactive Seat Map | ✅ | Responsive realtime seat grid |
-| Real-Time Availability | ✅ | Supabase Realtime |
-| Seat Locking | ✅ | PostgreSQL row locking |
-| Passenger Form | ✅ | Fully validated flow |
-| Booking & PNR | ✅ | Atomic RPC transaction |
-| Cancel Booking | ✅ | Secure backend RPC |
-| Reschedule Booking | ✅ | Backend transactional flow |
-| My Bookings Dashboard | ✅ | Booking history management |
-| Zustand Store Architecture | ✅ | Unified booking state |
-| Sensitive Data Protection | ✅ | `partialize` excludes PII |
-| PWA Support | ✅ | next-pwa integration |
-| Offline Support | ✅ | Runtime caching |
-| TypeScript Strictness | ✅ | Strongly typed architecture |
-| Backend Pricing Security | ✅ | Server-side calculations |
-| Secure Authorization | ✅ | `auth.uid()` validation |
 
 ---
 
@@ -620,4 +597,3 @@ rather than building a basic frontend assignment.
 
 ## Dhruv Mohan Shukla
 
-Built for the **Source Asia Frontend Internship Technical Assignment — 2026**
